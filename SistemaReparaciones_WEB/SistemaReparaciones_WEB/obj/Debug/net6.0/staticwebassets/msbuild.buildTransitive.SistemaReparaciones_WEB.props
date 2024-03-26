@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SistemaReparaciones_WEB.props" />
+</Project>

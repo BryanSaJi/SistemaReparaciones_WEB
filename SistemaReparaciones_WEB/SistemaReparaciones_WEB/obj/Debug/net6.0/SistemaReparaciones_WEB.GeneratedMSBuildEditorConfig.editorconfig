@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\WebApps\Ufide\SistemaReparaciones\SistemaReparaciones_WEB\SistemaReparaciones_WEB\SistemaReparaciones_WEB
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/WebApps/Ufide/SistemaReparaciones/SistemaReparaciones_WEB/SistemaReparaciones_WEB/SistemaReparaciones_WEB/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebApps/Ufide/SistemaReparaciones/SistemaReparaciones_WEB/SistemaReparaciones_WEB/SistemaReparaciones_WEB/Views/Dashboard/Repuestos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFJlcHVlc3Rvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/WebApps/Ufide/SistemaReparaciones/SistemaReparaciones_WEB/SistemaReparaciones_WEB/SistemaReparaciones_WEB/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -26,6 +34,30 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/WebApps/Ufide/SistemaReparaciones/SistemaReparaciones_WEB/SistemaReparaciones_WEB/SistemaReparaciones_WEB/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebApps/Ufide/SistemaReparaciones/SistemaReparaciones_WEB/SistemaReparaciones_WEB/SistemaReparaciones_WEB/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebApps/Ufide/SistemaReparaciones/SistemaReparaciones_WEB/SistemaReparaciones_WEB/SistemaReparaciones_WEB/Views/Shared/_Footer_Inner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXJfSW5uZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebApps/Ufide/SistemaReparaciones/SistemaReparaciones_WEB/SistemaReparaciones_WEB/SistemaReparaciones_WEB/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebApps/Ufide/SistemaReparaciones/SistemaReparaciones_WEB/SistemaReparaciones_WEB/SistemaReparaciones_WEB/Views/Shared/_Header_Inner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXJfSW5uZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebApps/Ufide/SistemaReparaciones/SistemaReparaciones_WEB/SistemaReparaciones_WEB/SistemaReparaciones_WEB/Views/Shared/_Layout_Inner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfSW5uZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebApps/Ufide/SistemaReparaciones/SistemaReparaciones_WEB/SistemaReparaciones_WEB/SistemaReparaciones_WEB/Views/Shared/_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlYmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/WebApps/Ufide/SistemaReparaciones/SistemaReparaciones_WEB/SistemaReparaciones_WEB/SistemaReparaciones_WEB/Views/Shared/_ValidationScriptsPartial.cshtml]
